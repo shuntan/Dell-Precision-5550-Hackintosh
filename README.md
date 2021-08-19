@@ -2,7 +2,7 @@
 
 A collection of all files needed to run Big Sur on a Dell Precision 5550.
 
-![截屏2021-08-18 下午9.15.06](img/截屏2021-08-18 下午9.15.06.png)
+![截屏2021-08-18 下午9.15.06](img/1.png)
 
 ## ![企业微信截图_c382a77c-a76a-43cd-8861-c4e373f776c5](img/企业微信截图_c382a77c-a76a-43cd-8861-c4e373f776c5.png)
 
